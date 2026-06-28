@@ -190,6 +190,7 @@ Despite these limitations, the Executive Sales Dashboard successfully fulfils it
 
 The project has been organised using a clear and structured repository layout to ensure that all project deliverables are easy to locate, review, and understand. The repository separates the dataset, Tableau workbook, documentation, and supporting screenshots into dedicated folders, allowing the project to follow a logical and professional organisation.
 
+```text
 chinmaywadhwa_2511379_part4_tableau_dashboard
 │
 ├── data/
@@ -211,9 +212,7 @@ chinmaywadhwa_2511379_part4_tableau_dashboard
 │   └── executive_dashboard.twbx
 │
 └── README.md
-
-This repository structure has been designed to maintain a clear separation between the dataset, analytical outputs, project documentation, screenshots, and the Tableau workbook. Such an organised structure improves readability, simplifies navigation, and enables evaluators to locate and review each project deliverable efficiently while demonstrating good repository management practices.
-
+```
 ⸻
 
 ## 16. Screenshots Included
